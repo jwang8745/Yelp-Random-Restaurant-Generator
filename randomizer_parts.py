@@ -3,7 +3,7 @@ import json
 import random
 import webbrowser
 
-api_key = 'xz0-ZtT_3yV_5bvbfpuxzVmoGtuG1hSyanE5aOKFdz4ZWOWMLBQMz9XHExtHwCECDnrQeHgvw9htmj1yHdeac98acMwKZhgJVMUfSMH8jEv1hk0uaSGSjn-vg_l6XnYx'
+api_key = ##API KEY##
 headers = {'Authorization': 'Bearer %s' % api_key}
 
 
